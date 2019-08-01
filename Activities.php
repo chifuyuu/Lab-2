@@ -49,7 +49,12 @@
 		<p class="lead"> </br><h1><strong>This is the Activity Area</strong></h1></br></br> <h2>Click an Activity you want to view:)</h2></p>
 			
 			<ul>
-
+				</br>
+				<li><a href="Activity1.php" type="button" class="btn btn-outline-light btn-lg"><ctivity 1</a></li>
+				<li><a href="Activity2.php" type="button" class="btn btn-outline-light btn-lg"><Activity 2</a></li>
+				<li><a href="Activity3.php" type="button" class="btn btn-outline-light btn-lg">Activity 3</a></li>
+				<li><a href="#" type="button" class="btn btn-outline-light btn-lg">Activity 4</a></li>
+				
 			</ul>	
 	</div>
 </header>
