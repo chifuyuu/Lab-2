@@ -43,7 +43,7 @@
 <div class="container-fluid padding">
 <div class="row welcome text-center">
 	
-	<div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-10">
+	<div class="col-12">
 		
 		
 		<header>
