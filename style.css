@@ -4,6 +4,16 @@
 	font-family: Century Gothic;
 }
 
+.body{
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(https://i.imgur.com/cJDaX7M.jpg);
+	height: 1000px;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100vw;
+}
+
 .title{
 	position: relative;
 	text-align: center;
@@ -153,12 +163,4 @@
     position: absolute;
 }
 
-header{
-	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(https://i.imgur.com/cJDaX7M.jpg);
-	height: 1000px;
-	background-attachment: fixed;
-	background-size: cover;
-	background-position: center;
-	background-repeat: no-repeat;
-	width: 100vw;
-}
+
