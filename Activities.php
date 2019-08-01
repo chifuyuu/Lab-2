@@ -40,6 +40,7 @@
 
 
 <!--WELCOME-->
+<header>
 <div class="container-fluid padding">
 <div class="row welcome text-center">
 	<hr>
@@ -55,6 +56,6 @@
 	</div>
 </div>
 </div>
-
+</header>
 	
 
