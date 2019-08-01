@@ -51,7 +51,7 @@
 		<p class="lead"> </br><h1><strong>This is the Activity Area</strong></h1></br></br> <h2>Click an Activity you want to view:)</h2></p>
 			<hr>
 	</div>
-	<div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-10">
+	<div class="col-12">
 			<ul>
 				</br>
 				<li><a href="Activity1.php"><h3><strong>Activity 1</strong></h3></a></li>
