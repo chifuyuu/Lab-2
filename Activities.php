@@ -44,6 +44,7 @@
 <div class="row welcome text-center">
 	<hr>
 	<div class="col-12">
+		<header>
 		<p class="lead"> </br><h1>This is the Activity Area</h1></br></br> <h2>Click an Activity you want to view:)</h2></p>
 			<ul>
 				</br>
@@ -52,7 +53,7 @@
 				<li><a href="Activity3.php"><h3>Activity 3</h3></a></li>
 				<li><a href="#"><h3>Activity 4</h3></a></li>
 			</ul>
-
+		</header>
 	</div>
 </div>
 </div>
