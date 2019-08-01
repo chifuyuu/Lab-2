@@ -4,6 +4,31 @@
 	font-family: Century Gothic;}
 }
 
+.btn{
+	border: 1px solid #fff;
+	padding: 10px 30px;
+	color: #fff;
+	text-decoration: none;
+	transition: 0.2s;
+}
+
+.btn:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+.paragraph{
+	text-align: justify;
+	text-justify: inter-word;
+	font-size: 15px;
+	color: #fff;
+	position: absolute;
+	text-decoration: none;
+	top: 60%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
 .title{
 	position: relative;
 	text-align: center;
