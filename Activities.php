@@ -42,23 +42,21 @@
 <!--WELCOME-->
 <div class="container-fluid padding">
 <div class="row welcome text-center">
-	
+	<header>
+	<hr>
 	<div class="col-12">
 		
-		
-		<header>
-	
 		<p class="lead"> </br><h1><strong>This is the Activity Area</strong></h1></br></br> <h2>Click an Activity you want to view:)</h2></p>
-			<hr>
+			
 			<ul>
 				</br>
 				<li><a href="Activity1.php"><h3><strong>Activity 1</strong></h3></a></li>
 				<li><a href="Activity2.php"><h3><strong>Activity 2</strong></h3></a></li>
 				<li><a href="Activity3.php"><h3><strong>Activity 3</strong></h3></a></li>
 				<li><a href="#"><h3><strong>Activity 4</strong></h3></a></li>
-			</ul>
-		</header>
+			</ul>	
 	</div>
+</header>
 </div>
 </div>
 
