@@ -154,7 +154,7 @@
 }
 
 
-.row welcome text-center{
+.container-fluid{
 	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(https://i.imgur.com/cJDaX7M.jpg);
 	height: 1000px;
 	background-attachment: fixed;
