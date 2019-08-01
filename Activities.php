@@ -50,7 +50,7 @@
 			
 			<ul>
 				</br>
-				<li><a href="Activity1.php" type="button" class="btn btn-outline-light btn-sm"></br>Activity 1</a></li>
+				<li><a href="Activity1.php" type="button" class="btn btn-outline-light btn-sm"></br></br>Activity 1</a></li>
 				<li><a href="Activity2.php" type="button" class="btn btn-outline-light btn-sm"></br>Activity 2</a></li>
 				<li><a href="Activity3.php" type="button" class="btn btn-outline-light btn-sm"></br>Activity 3</a></li>
 				<li><a href="#" type="button" class="btn btn-outline-light btn-sm"></br>Activity 4</a></li>
