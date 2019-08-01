@@ -50,8 +50,6 @@
 	
 		<p class="lead"> </br><h1><strong>This is the Activity Area</strong></h1></br></br> <h2>Click an Activity you want to view:)</h2></p>
 			<hr>
-	</div>
-	<div class="col-12">
 			<ul>
 				</br>
 				<li><a href="Activity1.php"><h3><strong>Activity 1</strong></h3></a></li>
@@ -59,7 +57,6 @@
 				<li><a href="Activity3.php"><h3><strong>Activity 3</strong></h3></a></li>
 				<li><a href="#"><h3><strong>Activity 4</strong></h3></a></li>
 			</ul>
-
 		</header>
 	</div>
 </div>
