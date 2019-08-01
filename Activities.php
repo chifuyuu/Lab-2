@@ -40,7 +40,6 @@
 
 
 <!--WELCOME-->
-<body>
 <div class="container-fluid padding">
 <div class="row welcome text-center">
 	<hr>
@@ -53,7 +52,7 @@
 				<li><a href="Activity3.php"><h3>Activity 3</h3></a></li>
 				<li><a href="#"><h3>Activity 4</h3></a></li>
 			</ul>
-</body>
+
 	</div>
 </div>
 </div>
