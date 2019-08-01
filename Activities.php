@@ -50,10 +50,10 @@
 			
 			<ul>
 				</br>
-				<li><a href="Activity1.php" type="button" class="btn btn-outline-light btn-lg"><h3><strong>Activity 1</strong></h3></a></li>
-				<li><a href="Activity2.php" type="button" class="btn btn-outline-light btn-lg"><h3><strong>Activity 2</strong></h3></a></li>
-				<li><a href="Activity3.php" type="button" class="btn btn-outline-light btn-lg"><h3><strong>Activity 3</strong></h3></a></li>
-				<li><a href="#" type="button" class="btn btn-outline-light btn-lg"><h3><strong>Activity 4</strong></h3></a></li>
+				<li><a href="Activity1.php" type="button" class="btn btn-outline-light btn-lg">Activity 1</a></li>
+				<li><a href="Activity2.php" type="button" class="btn btn-outline-light btn-lg">Activity 2</a></li>
+				<li><a href="Activity3.php" type="button" class="btn btn-outline-light btn-lg">Activity 2</a></li>
+				<li><a href="Activity#.php" type="button" class="btn btn-outline-light btn-lg">Activity 2</a></li>
 			</ul>	
 	</div>
 </header>
