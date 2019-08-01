@@ -53,9 +53,10 @@
 				<li><a href="Activity3.php"><h3>Activity 3</h3></a></li>
 				<li><a href="#"><h3>Activity 4</h3></a></li>
 			</ul>
+</header>
 	</div>
 </div>
 </div>
-</header>
+
 	
 
