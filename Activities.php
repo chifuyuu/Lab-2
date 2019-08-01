@@ -51,9 +51,13 @@
 			<ul>
 				</br>
 				<li><a href="Activity1.php" type="button" class="btn btn-outline-light btn-lg">Activity 1</a></li>
+				</br>
 				<li><a href="Activity2.php" type="button" class="btn btn-outline-light btn-lg">Activity 2</a></li>
-				<li><a href="Activity3.php" type="button" class="btn btn-outline-light btn-lg">Activity 2</a></li>
-				<li><a href="Activity#.php" type="button" class="btn btn-outline-light btn-lg">Activity 2</a></li>
+				</br>
+				<li><a href="Activity3.php" type="button" class="btn btn-outline-light btn-lg">Activity 3</a></li>
+				</br>
+				<li><a href="Activity#.php" type="button" class="btn btn-outline-light btn-lg">Activity 4</a></li>
+				</br>
 			</ul>	
 	</div>
 </header>
