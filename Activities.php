@@ -44,6 +44,7 @@
 <div class="row welcome text-center">
 	<hr>
 	<div class="col-12">
+		<img src="https://i.imgur.com/cJDaX7M.jpg" width="1280" height="720">
 		<p class="lead"> </br><h1>This is the Activity Area</h1></br></br> <h2>Click an Activity you want to view:)</h2></p>
 			<ul>
 				</br>
