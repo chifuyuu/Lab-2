@@ -44,7 +44,7 @@
 			</a>
 			</div>
 			
-			</br></br></br><br><br><br><br><br><h1>HELLO THERE KINDLY GIVE US A LIKE!</h1><br><br>
+			<br><br><br><br><br><h1>HELLO THERE KINDLY GIVE US A LIKE!</h1><br><br>
 			<br><br><br><br><br><br><br><br><br><br><h1>AT CHIFUYU GAMING</h1><br><br>
 			<button class="button1" type="button" onclick="window.location.href='https://www.facebook.com/ChifuyuGaming'">Click Me!</button>
 		</div>
