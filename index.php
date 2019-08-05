@@ -58,7 +58,7 @@
 		<div class="carousel-caption">
 			<h1 class="display-2">Reflection</h1>
 			<h3>Page</h3>
-			<a href="Reflection.php" type="button" class="btn btn-outline-light btn-lg">DON'T CLICK!</a>
+			<a href="Reflection.php" type="button" class="btn btn-outline-light btn-lg">CLICK HERE!</a>
 		</div>
 	</div>
 </div>
