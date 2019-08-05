@@ -48,16 +48,16 @@
 	<div class="carousel-item active">
 		<img src="https://i.imgur.com/6cfoZbu.jpg">
 		<div class="carousel-caption">
-			<h1 class="display-2">COOL</h1>
-			<h3>DESIGNS</h3>
+			<h1 class="display-2">Activity</h1>
+			<h3>Page</h3>
 			<a href="Activities.php" type="button" class="btn btn-outline-light btn-lg">ACTIVITIES</a>
 		</div>
 	</div>
 	<div class="carousel-item">
 		<img src="https://i.imgur.com/kLem2Z5.jpg">
 		<div class="carousel-caption">
-			<h1 class="display-2">RIGHT?</h1>
-			<h3>:)</h3>
+			<h1 class="display-2">Reflection</h1>
+			<h3>Page</h3>
 			<a href="" type="button" class="btn btn-outline-light btn-lg">DON'T CLICK!</a>
 		</div>
 	</div>
