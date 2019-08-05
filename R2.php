@@ -47,8 +47,8 @@
 		<p class="lead"> </br><h1>Reflection2</h1></br></br></p>
 			 
 			 </br>Ragsac, Paul Anthony</br>
-</br>BSCS-SS181
-</br>UI/UX Deign
+</br>BSCS-SS181</br>
+</br>UI/UX Deign</br>
 
 </br>For our second week, we discussed about the need findings and prototype making.</br> Since we are already tackling this part of our lecture, I realized that I need to improve my skills in design as well as my creativity in composing it. </br>In short this topic made me thought that we should not focus on the problem itself but think of simple ways how we will conquer the problem then combine that simple ideas and that would be the answer. </br>We don't have shortcuts in everything. We might have done it lightly but not completely, So for us, Future programmers and developers we should always try to make out of all different situations. </br>We need to learn how to create solutions to our problems. 
 
