@@ -42,26 +42,24 @@
 <!--WELCOME-->
 <div class="container-fluid padding">
 <div class="row welcome text-center">
-	<header>
 	<hr>
 	<div class="col-12">
+		<p class="lead"> </br><h1>Reflection3</h1></br></br></p>
+			 
+			 </br>Ragsac, Paul Anthony </br>
+ </br>SS-181
+
+ </br>My first web application using GitHub and Heroku was very exciting and hard at the same time. It was my first time also using GitHub. </br> So, I think it was normal to encounter so many problems, like I was not able to push my work from a different computer. </br> Another thing is that it is hard to commit, push, and upload files to GitHub for me because I don’t know what commands to use and I needed to consult YouTube on how to do it.
+ </br>
+ </br>Starting this webpage task is challenging since everything is new for me.  </br>This is my first time to use php, css, html.  So, I consulted YouTube for tutorials on how to create web pages and how to create a good one.  </br>Since, I don’t know much what the YouTuber is telling me about, so I also tried searching on the internet on the terms or codes to use for a specific thing.  </br>I also like Heroku since I can easily visit the website I make and can also be accessed on my phone’s browser as well, which is somehow satisfying because I can share my website to my friends as well though, my webpage is not yet that good when seen in the phone but I think we will get to that. 
+ </br> </br>
+ </br>Overall, the use of GitHub and Heroku in our first webpage/website was a fun experience because we learned new things which I think is really needed in the field of IT/CS. I’m looking forward to creating more better webpage in the future, since it is beneficial for us overall and can express creativity.
+
+
+			</p>
+		</div>
 		
-		<p class="lead"> </br><h1><strong>This is the Activity Area</strong></h1></br></br> <h2>Click an Activity you want to view:)</h2></p>
-			
-			<ul>
-				</br>
-				<li><a href="R1.php"><h3>R1</h3></a></li>
-				<li><a href="R2.php"><h3>R2</h3></a></li>
-				<li><a href="R3.php"><h3>R3</h3></a></li>
-				<li><a href="R4.php"><h3>R4</h3></a></li>
-				<li><a href="Q1.php"><h3>Q1</h3></a></li>
-				</br></br>
-				<li><a href="index.php"><h3>GO BACK</h3></a></li>
-			</ul>	
-	</div>
-</header>
-</div>
-</div>
-
-	
-
+		
+	</header>	
+</body>		
+</html>

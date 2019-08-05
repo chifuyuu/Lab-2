@@ -42,26 +42,22 @@
 <!--WELCOME-->
 <div class="container-fluid padding">
 <div class="row welcome text-center">
-	<header>
 	<hr>
 	<div class="col-12">
+		<p class="lead"> </br><h1>Reflection4</h1></br></br></p>
+			 
+			 </br>Ragsac, Paul Anthony</br>
+</br>SS 181
+
+</br>To start, our first quiz was unexpected, and I thought it was a good way to pointing on how important it is for a website having a very well-designed UI and UX.</br>  Taking this quiz, makes me realize that as an end user, we sometimes don’t read what we click on a website. We just click what we think is common or already experienced before on navigating through websites.</br> In the first few minutes of the quiz, I really don’t know what is happening. I just became pressured when everyone is already done and know what the steps navigating through it. </br>I can’t even past the first part of the quiz so I was already nervous if I will be the last one to pass the quiz. In the mid part, we already have insights on what to do to finish the quiz in a good time. It was to read every single word that is being required to proceed on to the next parts.</br>
+So, overall having this kind of interface in a website will mess someone’s time up and most importantly, it would give a lot of headaches to those who would be using it. </br>May even give inconsistent data since, end users cannot understand what they are doing in the website. We experienced that, creating a good UI and UX is important so that end users would not be bothered and had a lot of hard time as we did in our quiz  you need to put your all focus and mind into it and then you’ll get it.
+
+
+
+			</p>
+		</div>
 		
-		<p class="lead"> </br><h1><strong>This is the Activity Area</strong></h1></br></br> <h2>Click an Activity you want to view:)</h2></p>
-			
-			<ul>
-				</br>
-				<li><a href="R1.php"><h3>R1</h3></a></li>
-				<li><a href="R2.php"><h3>R2</h3></a></li>
-				<li><a href="R3.php"><h3>R3</h3></a></li>
-				<li><a href="R4.php"><h3>R4</h3></a></li>
-				<li><a href="Q1.php"><h3>Q1</h3></a></li>
-				</br></br>
-				<li><a href="index.php"><h3>GO BACK</h3></a></li>
-			</ul>	
-	</div>
-</header>
-</div>
-</div>
-
-	
-
+		
+	</header>	
+</body>		
+</html>
