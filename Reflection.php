@@ -46,7 +46,7 @@
 	<hr>
 	<div class="col-12">
 		
-		<p class="lead"> </br><h1><strong>This is the Activity Area</strong></h1></br></br> <h2>Click an Activity you want to view:)</h2></p>
+		<p class="lead"> </br><h1><strong>This is the Reflection Page</strong></h1></br></br> <h2>Click a Reflection you want to view:)</h2></p>
 			
 			<ul>
 				</br>
