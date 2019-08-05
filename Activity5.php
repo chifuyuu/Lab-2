@@ -44,15 +44,13 @@
 <div class="row welcome text-center">
 	<hr>
 	<div class="col-12">
-		<p class="lead"> </br><h1>Activity 3</h1></br></br></p>
+		<p class="lead"> </br><h1>Activity 5: Initial Prototype – Log In Page</h1></br></br></p>
 			 
 </br>Asia Pacific College
 </br>3 Humabon Place, Magallanes Makati city
 
 
 </br>USERDES</br>
-
-</br>Activity 5: Initial Prototype – Log In Page</br>
 
 
 
